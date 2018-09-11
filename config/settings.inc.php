@@ -1,8 +1,8 @@
 <?php
 define('_DB_SERVER_', 'localhost');
-define('_DB_NAME_', 'wwwzaon_website');
-define('_DB_USER_', 'wwwzaon_website');
-define('_DB_PASSWD_', 'CO@2014sm');
+define('_DB_NAME_', 'zao_original');
+define('_DB_USER_', 'zao_original');
+define('_DB_PASSWD_', 'zao_original');
 define('_DB_PREFIX_', 'ps_');
 define('_MYSQL_ENGINE_', 'InnoDB');
 define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
